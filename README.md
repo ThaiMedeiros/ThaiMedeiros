@@ -1,6 +1,16 @@
 ### Hi there, my name is Thaiza Medeiros 👋
 
-![Thaiza's github stats](https://github-readme-stats.vercel.app/api?username=ThaiMedeiros&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiMedeiros&theme=radical)](https://github.com/ThaiMedeiros/github-readme-stats)
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ThaiMedeiros&show_icons=true&theme=radical&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiMedeiros&theme=radical&line_height=33">
+</p>
+
+</details>
 
 <!--
 **ThaiMedeiros/ThaiMedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
