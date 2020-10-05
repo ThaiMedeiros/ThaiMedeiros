@@ -1,4 +1,14 @@
+<a href="https://twitter.com/dinhasw" target="_blank" rel="nofollow"><img align="right" alt="Thaiza's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/thaiza-medeiros-734aa9150" target="_blank" rel="nofollow"><img align="right" alt="Thaiza's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/thaai_med" target="_blank" rel="nofollow"><img align="right" alt="Thaiza's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+
 ### Hi there, my name is Thaiza Medeiros 👋
+
+<!--
+I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, C++, Plotly-Dash, PyTorch, and  AWS. Recently, I have just started with tech-blogging!
+
+To know more about me:
+- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
+- 👋 View my personal [blog site](https://pr2tik1.github.io/blog/)
+-->
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
