@@ -4,7 +4,7 @@
 
 - 🔭 I am currently pursuing a master's degree in Computer Science
 - 🌱 Study recently about React and Node.js
-- I try to collaborate on open source and personal projects
+- 👯 I try to collaborate on open source and personal projects
 - 💬 Main experiences are in web programming
 - 📫 How to find me: thaizamedeirossw@gmail.com
 - 😄 Pronouns: She/she
