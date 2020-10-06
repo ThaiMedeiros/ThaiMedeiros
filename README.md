@@ -10,8 +10,10 @@
 - 😄 Pronouns: She/she
 - ⚡ Curiosity: I am careful and perfectionist, I love music and animals
 
+<br>
+
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary> 😇 <b>My Github Stats</b> </summary>
 
 <br>
 
@@ -23,7 +25,7 @@
 </details>
 
 <details>
- <summary> :desktop_computer: <b>Frameworks</b>: </summary>
+ <summary> :desktop_computer: <b>Frameworks</b> </summary>
 
 <br>
 
@@ -56,7 +58,7 @@
 </details>
 
 <details>
- <summary> :woman_technologist: <b>Languages</b>: </summary>
+ <summary> :woman_technologist: <b>Languages</b> </summary>
 
 <br>
 
@@ -81,7 +83,7 @@
 </details>
 
 <details>
- <summary> :globe_with_meridians: <b>Misc</b>: </summary>
+ <summary> :globe_with_meridians: <b>Misc</b> </summary>
 
 <br>
 
@@ -110,7 +112,7 @@
 </details>
 
 <details>
- <summary> :computer: <b>Services</b>: </summary>
+ <summary> :computer: <b>Services</b> </summary>
 
 <br>
 
@@ -123,7 +125,7 @@
 </details>
 
 <details>
- <summary> :wrench: <b>Tools</b>: </summary>
+ <summary> :wrench: <b>Tools</b> </summary>
 
 <br>
 
