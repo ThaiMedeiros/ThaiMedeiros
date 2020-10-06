@@ -2,6 +2,14 @@
 
 ### Hi there, my name is Thaiza Medeiros 👋
 
+- 🔭 I am currently pursuing a master's degree in Computer Science
+- 🌱 Study recently about React and Node.js
+- I try to collaborate on open source and personal projects
+- 💬 Main experiences are in web programming
+- 📫 How to find me: thaizamedeirossw@gmail.com
+- 😄 Pronouns: She/she
+- ⚡ Curiosity: I am careful and perfectionist, I love music and animals
+
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
