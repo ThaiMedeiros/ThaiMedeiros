@@ -14,7 +14,7 @@
 
 </details>
 
-<details open>
+<details>
  <summary> :desktop_computer: <b>Frameworks</b>: </summary>
 
 <br>
@@ -47,7 +47,7 @@
 
 </details>
 
-<details open>
+<details>
  <summary> :woman_technologist: <b>Languages</b>: </summary>
 
 <br>
@@ -72,7 +72,7 @@
 
 </details>
 
-<details open>
+<details>
  <summary> :globe_with_meridians: <b>Misc</b>: </summary>
 
 <br>
@@ -101,7 +101,7 @@
 
 </details>
 
-<details open>
+<details>
  <summary> :computer: <b>Services</b>: </summary>
 
 <br>
@@ -114,7 +114,7 @@
 
 </details>
 
-<details open>
+<details>
  <summary> :wrench: <b>Tools</b>: </summary>
 
 <br>
