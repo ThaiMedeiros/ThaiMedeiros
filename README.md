@@ -15,27 +15,134 @@
 </details>
 
 <details open>
- <summary> 😇 <b>Languagens</b>: </summary>
+ <summary> :desktop_computer: <b>Frameworks</b>: </summary>
 
 <br>
 
 <p align = "left">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
- 
+  <a href="#">
+    <img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a> 
 </p>
 
 </details>
 
 <details open>
- <summary> 😇 <b>Tools</b>: </summary>
+ <summary> :woman_technologist: <b>Languages</b>: </summary>
 
 <br>
 
 <p align = "left">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <a href="#">
+    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
+
+</details>
+
+<details open>
+ <summary> :globe_with_meridians: <b>Misc</b>: </summary>
+
+<br>
+
+<p align = "left">
+  <a href="#">
+    <img src="svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/dev/misc/edge.svg" alt="edge" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/dev/misc/firefox.svg" alt="firefox" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
+
+</details>
+
+<details open>
+ <summary> :computer: <b>Services</b>: </summary>
+
+<br>
+
+<p align = "left">
+  <a href="#">
+    <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
+
+</details>
+
+<details open>
+ <summary> :wrench: <b>Tools</b>: </summary>
+
+<br>
+
+<p align = "left">
+  <a href="#">
+    <img src="svg/dev/tools/android_studio_colour.svg" alt="android_studio_colour" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/dev/tools/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/dev/tools/jetbrains_phpstorm.svg" alt="jetbrains_phpstorm" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+  </a>
 </p>
 
 </details>
