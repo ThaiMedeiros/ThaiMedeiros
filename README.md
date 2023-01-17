@@ -11,7 +11,7 @@
 - ⚡ Curiosity: I am careful and perfectionist, I love music and animals
 
 <br>
-
+<!--
 <details open>
  <summary> 😇 <b>My Github Stats</b> </summary>
 
@@ -21,7 +21,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=ThaiMedeiros&show_icons=true&theme=radical&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiMedeiros&theme=radical&line_height=33">
 </p>
-
+-->
 </details>
 
 <details>
