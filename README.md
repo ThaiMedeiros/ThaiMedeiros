@@ -1,5 +1,3 @@
-<a href="https://twitter.com/dinhasw" target="_blank" rel="nofollow"><img align="right" alt="Thaiza's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/thaiza-medeiros-734aa9150" target="_blank" rel="nofollow"><img align="right" alt="Thaiza's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/thaai_med" target="_blank" rel="nofollow"><img align="right" alt="Thaiza's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-
 ### Hi there, my name is Thaiza Medeiros 👋
 
 - 🔭 I am currently pursuing a master's degree in Computer Science
