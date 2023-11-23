@@ -5,7 +5,7 @@
 - 👯 I try to collaborate on open source and personal projects
 - 💬 Main experiences are in web programming
 - 📫 How to find me: thaizamedeirossw@gmail.com
-- 😄 Pronouns: She/she
+- 😄 Pronouns: She/Her
 - ⚡ Curiosity: I am careful and perfectionist, I love music and animals
 
 <br>
