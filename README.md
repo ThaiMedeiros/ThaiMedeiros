@@ -3,7 +3,8 @@
 - 😄 Pronouns: she/her
 - 🧠 Bachelor of Computer Science
 - ⚡ Curiosities: I am careful and a perfectionist, I love technology, music and animals
-- 📫 How to find me: [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/thaiza-medeiros-734aa9150/)
+- 📫 How to find me: <br>
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/thaiza-medeiros-734aa9150/)
 [<img alt="Mail do Icloud Apple" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:thaizamedeirossw@gmail.com)
 
 <br>
@@ -14,7 +15,7 @@
 <br>
 
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiMedeiros&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=ThaiMedeiros&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=ThaiMedeiros&show_icons=true&theme=radical"/>](https://github.com/)
 [<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=ThaiMedeiros&amp;theme=radical"/>](https://github.com/)
 
 </details>
