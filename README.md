@@ -1,25 +1,22 @@
 ### Hi there, my name is Thaiza Medeiros 👋
 
-- 🔭 I am currently pursuing a master's degree in Computer Science
-- 🌱 Study recently about React and Node.js
-- 👯 I try to collaborate on open source and personal projects
-- 💬 Main experiences are in web programming
-- 📫 How to find me: thaizamedeirossw@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Curiosity: I am careful and perfectionist, I love music and animals
+- 😄 Pronouns: she/her
+- 🧠 Bachelor of Computer Science
+- ⚡ Curiosities: I am careful and a perfectionist, I love technology, music and animals
+- 📫 How to find me: [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/thaiza-medeiros-734aa9150/)
+[<img alt="Mail do Icloud Apple" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:thaizamedeirossw@gmail.com)
 
 <br>
-<!--
+
 <details open>
  <summary> 😇 <b>My Github Stats</b> </summary>
 
 <br>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ThaiMedeiros&show_icons=true&theme=radical&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiMedeiros&theme=radical&line_height=33">
-</p>
--->
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiMedeiros&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=ThaiMedeiros&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
+[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=ThaiMedeiros&amp;theme=radical"/>](https://github.com/)
+
 </details>
 
 <details>
