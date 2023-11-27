@@ -1,4 +1,4 @@
-### Hi there, my name is Thaiza Medeiros :wave: <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+### Hi there, my name is Thaiza Medeiros :wave: <img src="https://i.postimg.cc/cC3wrv0Z/Frame-1.png" alt="ilustração developer" min-width="300px" max-width="300px" width="300px" align="right">
 
 - :wink: Pronouns: she/her.
 - :brain: Bachelor of Computer Science.
