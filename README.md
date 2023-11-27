@@ -1,8 +1,8 @@
 ### Hi there, my name is Thaiza Medeiros :wave:
 
-- :wink: Pronouns: she/her
-- :brain: Bachelor of Computer Science
-- :zap: Curiosities: I am careful and a perfectionist, I love technology, music and animals
+- :wink: Pronouns: she/her.
+- :brain: Bachelor of Computer Science.
+- :zap: Curiosities: I am careful and a perfectionist, I love technology, music and animals.
 - :mailbox_with_no_mail: How to find me: <br><br>
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/thaiza-medeiros-734aa9150/)
 [<img alt="Mail do Gmail" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black"/>](mailto:thaizamedeirossw@gmail.com)
@@ -67,6 +67,16 @@
  <a href="https://www.microsoft.com/pt-br/windows" target="_blank"><img height="48px" width="48px" alt="Icone Windows" src="https://i.postimg.cc/nrfRD5Sg/windows-icon-png-5802.png"/></a>
  <a href="https://learn.microsoft.com/pt-br/powershell/" target="_blank"><img height="48px" width="48px" alt="Icone Powershell" src="https://skillicons.dev/icons?i=powershell"/></a>
 </p>
+
+#
+
+### :pushpin: Other Competencies
+ - `Análise de Requisitos`;
+ - `Gerenciamento de Projetos`;
+ - `Criação de documentação`;
+ - `Configuração de servidores web`;
+ - `CI/CD Básico`;
+ - `UX/UI Design`.
 
 #
 
