@@ -1,4 +1,4 @@
-### Hi there, my name is Thaiza Medeiros :wave:
+### Hi there, my name is Thaiza Medeiros :wave: <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - :wink: Pronouns: she/her.
 - :brain: Bachelor of Computer Science.
@@ -71,12 +71,12 @@
 #
 
 ### :pushpin: Other Competencies
- - `Análise de Requisitos`;
- - `Gerenciamento de Projetos`;
- - `Criação de documentação`;
- - `Configuração de servidores web`;
- - `CI/CD Básico`;
- - `UX/UI Design`.
+ - <p align="left">Análise de Requisitos;</p>
+ - <p align="left">Gerenciamento de Projetos;</p>
+ - <p align="left">Criação de documentação;</p>
+ - <p align="left">Configuração de servidores web;</p>
+ - <p align="left">CI/CD Básico;</p>
+ - <p align="left">UX/UI Design.</p>
 
 #
 
