@@ -3,7 +3,7 @@
 - :wink: Pronouns: she/her.
 - :brain: Bachelor of Computer Science.
 - :zap: Curiosities: I am careful and a perfectionist, I love technology, music and animals.
-- :mailbox_with_no_mail: How to find me: <br><br>
+- :mailbox_with_no_mail: How to find me<br><br>
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/thaiza-medeiros-734aa9150/)
 [<img alt="Mail do Gmail" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black"/>](mailto:thaizamedeirossw@gmail.com)
 
@@ -71,11 +71,11 @@
 #
 
 ### :pushpin: Other Competencies
- - <p align="left">Análise de Requisitos;</p>
- - <p align="left">Gerenciamento de Projetos;</p>
- - <p align="left">Criação de documentação;</p>
- - <p align="left">Configuração de servidores web;</p>
- - <p align="left">CI/CD Básico;</p>
+ - <p align="left">Requirements Analysis;</p>
+ - <p align="left">Projects Management;</p>
+ - <p align="left">Documentation Creation;</p>
+ - <p align="left">WEB Servers Configuration;</p>
+ - <p align="left">Basic CI/CD;</p>
  - <p align="left">UX/UI Design.</p>
 
 #
