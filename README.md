@@ -58,7 +58,7 @@
 
 #
 
-### :hammer_and_wrench: Development Tools
+### :hammer_and_wrench: Tools
 
 <p align="left">
  <a href="https://code.visualstudio.com/" target="_blank"><img height="48px" width="48px" alt="Icone VSCode" src="https://skillicons.dev/icons?i=vscode"/></a>
